@@ -71,7 +71,8 @@ PRIVATE_KEY=your_private_key
 INFURA_PROJECT_ID=your_infura_project_id
 ```
 
----
+## 🚀 Smart Contract Walkthrough video 
+<a href="https://youtu.be/uhvZGLASTMU?si=A0jjusY-x2MomiIj"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cptlbzAskGrPmTmoI-v3tPLZjTgOQF4uuQ&s"/></a>
 
 ## 📜 License
 
