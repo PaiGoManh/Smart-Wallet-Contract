@@ -35,7 +35,7 @@ This contract serves as a wallet for the owner, allowing them to manage their fu
 
 ## 🔍 Explore Deployed Contract
 
-- **SmartWallet Contract**: [View on Etherscan](#)  
+- **SmartWallet Contract**: [View on Etherscan](https://sepolia.etherscan.io/address/0xbD53CF384FF46730E79bD928A8E4BD5f3f134225)  
 
 ---
 
