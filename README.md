@@ -1,6 +1,6 @@
 # 🪙 SmartWallet Contract
 
-The **SmartWallet** contract provides a secure and efficient way for users to manage their funds with ownership control and recovery options. It allows the owner to deposit, withdraw, and transfer funds, while also enabling a designated recovery address to change ownership if needed.
+The **SmartWallet** contract provides a secure and efficient way for users to manage their funds with ownership control and recovery options. It allows the owner to deposit, withdraw, and transfer funds, while also enabling a designated recovery address to change ownership if needed. 
 
 ## ✨ Features
 
